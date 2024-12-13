@@ -2,13 +2,28 @@
 *.pyc
 __pycache__/
 
-# Virtual environment
+# Virtual environment directories
+v/
 venv/
 env/
-v/
+.venv/
 
-# Log files
+
+# Log and debug files
 *.log
+
+# JSON result files
 *.json
-# Results folder (optional)
 results/
+
+# IDE-specific files (optional, based on your setup)
+.idea/
+.vscode/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+.coverage
+htmlcov/
