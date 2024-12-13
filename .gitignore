@@ -9,6 +9,6 @@ v/
 
 # Log files
 *.log
-
+*.json
 # Results folder (optional)
 results/
