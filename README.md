@@ -41,8 +41,9 @@ Install Assetfinder by following the [installation instructions](https://github.
 #### Waybackurls
 Install Waybackurls by following the [installation instructions](https://github.com/tomnomnom/waybackurls) in the GitHub repository.
 
-#### Paramspider
-Install Paramspider via its `setup.py` file by running:
+#### Paramspider 
+Install Paramspider by following the [installation instructions](https://github.com/devanshbatham/ParamSpider) in the GitHub repository via its `setup.py` file by running:
+
 
 ```bash
 python setup.py install
